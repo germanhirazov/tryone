@@ -1,0 +1,54 @@
+html, body {
+	font-family: Helvetica, Tahoma, Arial;
+	font-size:25pt;
+	font-weight:normal;/*100,300,400,600,700,900*/
+	font-style:normal;
+	color:white;
+	line-height:1;
+	margin:0px;
+	padding:0px;
+	height:100%;
+	width:100%;
+	text-align:center;
+	background: url(../images/bg6.jpg);
+	--background:#778899;
+	--background-size: 100%;
+	background-attachment: fixed;
+	background-repeat:repeat;
+}
+
+a {
+	text-decoration: none;
+	color:inherit;
+}
+
+h1 {
+	color:black;
+}
+
+details {
+	color:black;
+	font-size:15pt;
+}
+
+.block12 { z-index: 1000; }
+.block21 { z-index: 1; }
+
+
+
+
+.mainblock {
+	
+}
+
+.hiddentext {
+	font-size:0.7em;
+}
+
+.plus {
+	color:green;
+}
+
+.minus {
+	color:red;
+}
